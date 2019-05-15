@@ -1,0 +1,180 @@
+[INFO]-[2019/04/10 15:37:19] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/04/10 15:37:19] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/04/10 15:37:20] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/04/10 15:37:20] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/04/10 15:37:20] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/04/10 15:37:20] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/04/10 15:37:20] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/04/10 15:37:20] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:20] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/04/10 15:37:20] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:21] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/04/10 15:37:21] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:21] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/04/10 15:37:21] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:21] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/04/10 15:37:21] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:21] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/04/10 15:37:21] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:21] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/04/10 15:37:21] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:21] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/04/10 15:37:21] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:21] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/04/10 15:37:22] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:21] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/04/10 15:37:22] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:22] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/04/10 15:37:22] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/04/10 15:37:22] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/04/10 15:37:22] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:22] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/04/10 15:37:22] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:22] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/04/10 15:37:23] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:22] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/04/10 15:37:23] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:23] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/04/10 15:37:23] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:23] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/04/10 15:37:23] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:23] DB Copy: Creating table wpstg0_xyz_ips_short_code
+[INFO]-[2019/04/10 15:37:23] DB Copy: wp_xyz_ips_short_code as wpstg0_xyz_ips_short_code from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:23] DB Copy: Creating table wpstg0_xyz_ips_short_code
+[INFO]-[2019/04/10 15:37:23] DB Copy: wp_xyz_ips_short_code as wpstg0_xyz_ips_short_code from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:23] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2019/04/10 15:37:23] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:23] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2019/04/10 15:37:23] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:24] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2019/04/10 15:37:24] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:24] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2019/04/10 15:37:24] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/10 15:37:25] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/04/10 15:37:25] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/04/10 15:37:26] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/04/10 15:37:26] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/04/10 15:37:26] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/04/10 15:37:26] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/04/10 15:37:26] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/04/10 15:37:26] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/04/10 15:37:27] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2019/04/10 15:37:27] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/10 15:37:27] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/04/10 15:37:27] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/04/10 15:37:27] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/04/10 15:37:27] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/04/10 15:37:28] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2019/04/10 15:37:28] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2019/04/10 15:37:30] DB Processing:  Table wpstg0_xyz_ips_short_code 0 to 5000 records
+[INFO]-[2019/04/10 15:37:30] DB Processing:  Table wpstg0_xyz_ips_short_code 0 to 5000 records
+[INFO]-[2019/04/10 15:37:30] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2019/04/10 15:37:30] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2019/04/10 15:37:31] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[INFO]-[2019/04/10 15:37:31] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/10 15:37:31] Scanning / for files
+[INFO]-[2019/04/10 15:37:31] Scanning / for files
+[INFO]-[2019/04/10 15:37:32] Scanning wp-content folder /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/wp-content
+[INFO]-[2019/04/10 15:37:32] Scanning wp-content folder /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/wp-content
+[INFO]-[2019/04/10 15:37:32] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/04/10 15:37:32] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/04/10 15:37:32] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/04/10 15:37:32] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/04/10 15:37:33] Copying files...
+[INFO]-[2019/04/10 15:37:33] Total 50 files processed
+[INFO]-[2019/04/10 15:37:33] Copying files...
+[INFO]-[2019/04/10 15:37:33] Total 50 files processed
+[INFO]-[2019/04/10 15:37:33] Total 100 files processed
+[INFO]-[2019/04/10 15:37:33] Total 100 files processed
+[INFO]-[2019/04/10 15:37:34] Total 150 files processed
+[INFO]-[2019/04/10 15:37:34] Total 150 files processed
+[INFO]-[2019/04/10 15:37:34] Total 200 files processed
+[INFO]-[2019/04/10 15:37:34] Total 200 files processed
+[INFO]-[2019/04/10 15:37:34] Total 250 files processed
+[INFO]-[2019/04/10 15:37:34] Total 250 files processed
+[INFO]-[2019/04/10 15:37:35] Total 300 files processed
+[INFO]-[2019/04/10 15:37:35] Total 300 files processed
+[INFO]-[2019/04/10 15:37:35] Total 350 files processed
+[INFO]-[2019/04/10 15:37:35] Total 350 files processed
+[INFO]-[2019/04/10 15:37:35] Total 400 files processed
+[INFO]-[2019/04/10 15:37:35] Total 400 files processed
+[INFO]-[2019/04/10 15:37:36] Total 450 files processed
+[INFO]-[2019/04/10 15:37:36] Total 450 files processed
+[INFO]-[2019/04/10 15:37:36] Total 500 files processed
+[INFO]-[2019/04/10 15:37:36] Total 500 files processed
+[INFO]-[2019/04/10 15:37:36] Total 550 files processed
+[INFO]-[2019/04/10 15:37:36] Total 550 files processed
+[INFO]-[2019/04/10 15:37:37] Total 600 files processed
+[INFO]-[2019/04/10 15:37:37] Total 600 files processed
+[INFO]-[2019/04/10 15:37:37] Total 650 files processed
+[INFO]-[2019/04/10 15:37:37] Total 650 files processed
+[INFO]-[2019/04/10 15:37:37] Total 700 files processed
+[INFO]-[2019/04/10 15:37:37] Total 700 files processed
+[INFO]-[2019/04/10 15:37:37] Trying to copy big file: /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/wp-content/plugins/wordpress-seo/js/dist/analysis-1013.min.js -> /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/preprod/wp-content/plugins/wordpress-seo/js/dist/analysis-1013.min.js
+[INFO]-[2019/04/10 15:37:37] Total 750 files processed
+[INFO]-[2019/04/10 15:37:37] Trying to copy big file: /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/wp-content/plugins/wordpress-seo/js/dist/analysis-1013.min.js -> /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/preprod/wp-content/plugins/wordpress-seo/js/dist/analysis-1013.min.js
+[INFO]-[2019/04/10 15:37:37] Total 750 files processed
+[INFO]-[2019/04/10 15:37:38] Trying to copy big file: /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1013.min.js -> /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/preprod/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1013.min.js
+[INFO]-[2019/04/10 15:37:38] Total 800 files processed
+[INFO]-[2019/04/10 15:37:38] Trying to copy big file: /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1013.min.js -> /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/preprod/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1013.min.js
+[INFO]-[2019/04/10 15:37:38] Total 800 files processed
+[INFO]-[2019/04/10 15:37:38] Total 850 files processed
+[INFO]-[2019/04/10 15:37:38] Total 850 files processed
+[INFO]-[2019/04/10 15:37:38] Total 900 files processed
+[INFO]-[2019/04/10 15:37:38] Total 900 files processed
+[INFO]-[2019/04/10 15:37:39] Total 950 files processed
+[INFO]-[2019/04/10 15:37:39] Total 950 files processed
+[INFO]-[2019/04/10 15:37:39] Total 1000 files processed
+[INFO]-[2019/04/10 15:37:39] Total 1000 files processed
+[INFO]-[2019/04/10 15:37:39] Total 1050 files processed
+[INFO]-[2019/04/10 15:37:39] Total 1050 files processed
+[INFO]-[2019/04/10 15:37:40] Total 1100 files processed
+[INFO]-[2019/04/10 15:37:40] Total 1100 files processed
+[INFO]-[2019/04/10 15:37:40] Total 1150 files processed
+[INFO]-[2019/04/10 15:37:40] Total 1150 files processed
+[INFO]-[2019/04/10 15:37:40] Total 1200 files processed
+[INFO]-[2019/04/10 15:37:40] Total 1200 files processed
+[INFO]-[2019/04/10 15:37:41] Total 1250 files processed
+[INFO]-[2019/04/10 15:37:41] Total 1250 files processed
+[INFO]-[2019/04/10 15:37:41] Total 1300 files processed
+[INFO]-[2019/04/10 15:37:41] Total 1300 files processed
+[INFO]-[2019/04/10 15:37:41] Total 1350 files processed
+[INFO]-[2019/04/10 15:37:41] Total 1350 files processed
+[INFO]-[2019/04/10 15:37:42] Total 1400 files processed
+[INFO]-[2019/04/10 15:37:42] Total 1400 files processed
+[INFO]-[2019/04/10 15:37:42] Total 1450 files processed
+[INFO]-[2019/04/10 15:37:42] Total 1450 files processed
+[INFO]-[2019/04/10 15:37:42] Total 1500 files processed
+[INFO]-[2019/04/10 15:37:42] Total 1500 files processed
+[INFO]-[2019/04/10 15:37:42] Total 1550 files processed
+[INFO]-[2019/04/10 15:37:42] Total 1550 files processed
+[INFO]-[2019/04/10 15:37:43] Total 1600 files processed
+[INFO]-[2019/04/10 15:37:43] Total 1600 files processed
+[INFO]-[2019/04/10 15:37:43] Total 1650 files processed
+[INFO]-[2019/04/10 15:37:43] Total 1650 files processed
+[INFO]-[2019/04/10 15:37:43] Total 1700 files processed
+[INFO]-[2019/04/10 15:37:43] Total 1700 files processed
+[INFO]-[2019/04/10 15:37:44] Total 1750 files processed
+[INFO]-[2019/04/10 15:37:44] Total 1750 files processed
+[INFO]-[2019/04/10 15:37:44] Total 1800 files processed
+[INFO]-[2019/04/10 15:37:44] Total 1800 files processed
+[INFO]-[2019/04/10 15:37:44] Total 1850 files processed
+[INFO]-[2019/04/10 15:37:44] Total 1850 files processed
+[INFO]-[2019/04/10 15:37:45] Total 1900 files processed
+[INFO]-[2019/04/10 15:37:45] Total 1900 files processed
+[INFO]-[2019/04/10 15:37:45] Total 1950 files processed
+[INFO]-[2019/04/10 15:37:45] Total 1950 files processed
+[INFO]-[2019/04/10 15:37:45] Total 2000 files processed
+[INFO]-[2019/04/10 15:37:45] Total 2000 files processed

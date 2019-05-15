@@ -1,0 +1,62 @@
+@import "main";
+
+
+
+nav,
+#logo{
+  display: inline-block !important;
+  vertical-align: top;
+}
+
+#logo{
+  margin-left: 18px;
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
+
+header{
+  nav{
+    margin-top: 60px;
+    li{
+      list-style: none;
+      display: inline-block;
+      color:$green;
+      a{
+        color:$grey !important;
+        padding: 0 5px;
+        text-decoration: none !important;
+        padding-bottom: 8px;
+        &:hover{
+          color:$text-color;
+          border-bottom: 2px solid $green;
+        }
+      }
+      &:after{
+        content: " |";
+      }
+    }
+    .sub-menu{
+      display: none;
+      margin: 0;
+      padding: 0;
+      position: absolute;
+      background-color: white;
+      text-transform: capitalize;
+      border-bottom: 1px solid $grey;
+      li{
+        display: block;
+        padding: 10px 10px;
+        border-bottom: 1px solid $grey;
+        a{
+          font-weight: normal;
+        }
+        &:last-child{
+          border-bottom: none !important;
+        }
+        &:after{
+          content: "";
+        }
+      }
+    }
+  }
+}

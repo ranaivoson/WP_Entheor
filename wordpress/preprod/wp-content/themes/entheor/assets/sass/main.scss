@@ -1,0 +1,37 @@
+$green:       #97bd12;
+$grey:        #818181;
+$lightGrey:   #f1f1f1;
+$text-color:  #414141;
+
+.btn{
+  background-color: $green !important;
+  color: white !important;
+}
+
+body{
+  color: $text-color;
+  header{
+    nav{
+      float: right;
+      margin-right: 40px;
+    }
+  }
+}
+
+section{
+
+}
+
+.owl-nav{
+  font-size: 100px;
+  .owl-prev{
+    position:absolute;
+    top:0;
+    left:0;
+  }
+  .owl-next{
+    position:absolute;
+    top:0;
+    right:0;
+  }
+}

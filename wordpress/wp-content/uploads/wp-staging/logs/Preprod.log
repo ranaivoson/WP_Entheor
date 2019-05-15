@@ -1,0 +1,322 @@
+[INFO]-[2019/04/10 15:37:19] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/04/10 15:37:19] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/04/10 15:37:20] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/04/10 15:37:20] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/04/10 15:37:20] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/04/10 15:37:20] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/04/10 15:37:20] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/04/10 15:37:20] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:20] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/04/10 15:37:20] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:21] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/04/10 15:37:21] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:21] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/04/10 15:37:21] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:21] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/04/10 15:37:21] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:21] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/04/10 15:37:21] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:21] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/04/10 15:37:21] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:21] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/04/10 15:37:21] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:21] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/04/10 15:37:22] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:21] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/04/10 15:37:22] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:22] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/04/10 15:37:22] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/04/10 15:37:22] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/04/10 15:37:22] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:22] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/04/10 15:37:22] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:22] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/04/10 15:37:23] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:22] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/04/10 15:37:23] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:23] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/04/10 15:37:23] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:23] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/04/10 15:37:23] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:23] DB Copy: Creating table wpstg0_xyz_ips_short_code
+[INFO]-[2019/04/10 15:37:23] DB Copy: wp_xyz_ips_short_code as wpstg0_xyz_ips_short_code from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:23] DB Copy: Creating table wpstg0_xyz_ips_short_code
+[INFO]-[2019/04/10 15:37:23] DB Copy: wp_xyz_ips_short_code as wpstg0_xyz_ips_short_code from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:23] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2019/04/10 15:37:23] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:23] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2019/04/10 15:37:23] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:24] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2019/04/10 15:37:24] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[INFO]-[2019/04/10 15:37:24] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2019/04/10 15:37:24] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/10 15:37:25] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/04/10 15:37:25] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/04/10 15:37:26] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/04/10 15:37:26] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/04/10 15:37:26] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/04/10 15:37:26] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/04/10 15:37:26] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/04/10 15:37:26] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/04/10 15:37:27] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2019/04/10 15:37:27] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/10 15:37:27] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/04/10 15:37:27] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/04/10 15:37:27] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/04/10 15:37:27] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/04/10 15:37:28] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2019/04/10 15:37:28] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2019/04/10 15:37:30] DB Processing:  Table wpstg0_xyz_ips_short_code 0 to 5000 records
+[INFO]-[2019/04/10 15:37:30] DB Processing:  Table wpstg0_xyz_ips_short_code 0 to 5000 records
+[INFO]-[2019/04/10 15:37:30] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2019/04/10 15:37:30] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2019/04/10 15:37:31] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[INFO]-[2019/04/10 15:37:31] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/10 15:37:31] Scanning / for files
+[INFO]-[2019/04/10 15:37:31] Scanning / for files
+[INFO]-[2019/04/10 15:37:32] Scanning wp-content folder /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/wp-content
+[INFO]-[2019/04/10 15:37:32] Scanning wp-content folder /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/wp-content
+[INFO]-[2019/04/10 15:37:32] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/04/10 15:37:32] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/04/10 15:37:32] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/04/10 15:37:32] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/04/10 15:37:33] Copying files...
+[INFO]-[2019/04/10 15:37:33] Total 50 files processed
+[INFO]-[2019/04/10 15:37:33] Copying files...
+[INFO]-[2019/04/10 15:37:33] Total 50 files processed
+[INFO]-[2019/04/10 15:37:33] Total 100 files processed
+[INFO]-[2019/04/10 15:37:33] Total 100 files processed
+[INFO]-[2019/04/10 15:37:34] Total 150 files processed
+[INFO]-[2019/04/10 15:37:34] Total 150 files processed
+[INFO]-[2019/04/10 15:37:34] Total 200 files processed
+[INFO]-[2019/04/10 15:37:34] Total 200 files processed
+[INFO]-[2019/04/10 15:37:34] Total 250 files processed
+[INFO]-[2019/04/10 15:37:34] Total 250 files processed
+[INFO]-[2019/04/10 15:37:35] Total 300 files processed
+[INFO]-[2019/04/10 15:37:35] Total 300 files processed
+[INFO]-[2019/04/10 15:37:35] Total 350 files processed
+[INFO]-[2019/04/10 15:37:35] Total 350 files processed
+[INFO]-[2019/04/10 15:37:35] Total 400 files processed
+[INFO]-[2019/04/10 15:37:35] Total 400 files processed
+[INFO]-[2019/04/10 15:37:36] Total 450 files processed
+[INFO]-[2019/04/10 15:37:36] Total 450 files processed
+[INFO]-[2019/04/10 15:37:36] Total 500 files processed
+[INFO]-[2019/04/10 15:37:36] Total 500 files processed
+[INFO]-[2019/04/10 15:37:36] Total 550 files processed
+[INFO]-[2019/04/10 15:37:36] Total 550 files processed
+[INFO]-[2019/04/10 15:37:37] Total 600 files processed
+[INFO]-[2019/04/10 15:37:37] Total 600 files processed
+[INFO]-[2019/04/10 15:37:37] Total 650 files processed
+[INFO]-[2019/04/10 15:37:37] Total 650 files processed
+[INFO]-[2019/04/10 15:37:37] Total 700 files processed
+[INFO]-[2019/04/10 15:37:37] Total 700 files processed
+[INFO]-[2019/04/10 15:37:37] Trying to copy big file: /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/wp-content/plugins/wordpress-seo/js/dist/analysis-1013.min.js -> /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/preprod/wp-content/plugins/wordpress-seo/js/dist/analysis-1013.min.js
+[INFO]-[2019/04/10 15:37:37] Total 750 files processed
+[INFO]-[2019/04/10 15:37:37] Trying to copy big file: /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/wp-content/plugins/wordpress-seo/js/dist/analysis-1013.min.js -> /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/preprod/wp-content/plugins/wordpress-seo/js/dist/analysis-1013.min.js
+[INFO]-[2019/04/10 15:37:37] Total 750 files processed
+[INFO]-[2019/04/10 15:37:38] Trying to copy big file: /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1013.min.js -> /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/preprod/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1013.min.js
+[INFO]-[2019/04/10 15:37:38] Total 800 files processed
+[INFO]-[2019/04/10 15:37:38] Trying to copy big file: /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1013.min.js -> /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/preprod/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1013.min.js
+[INFO]-[2019/04/10 15:37:38] Total 800 files processed
+[INFO]-[2019/04/10 15:37:38] Total 850 files processed
+[INFO]-[2019/04/10 15:37:38] Total 850 files processed
+[INFO]-[2019/04/10 15:37:38] Total 900 files processed
+[INFO]-[2019/04/10 15:37:38] Total 900 files processed
+[INFO]-[2019/04/10 15:37:39] Total 950 files processed
+[INFO]-[2019/04/10 15:37:39] Total 950 files processed
+[INFO]-[2019/04/10 15:37:39] Total 1000 files processed
+[INFO]-[2019/04/10 15:37:39] Total 1000 files processed
+[INFO]-[2019/04/10 15:37:39] Total 1050 files processed
+[INFO]-[2019/04/10 15:37:39] Total 1050 files processed
+[INFO]-[2019/04/10 15:37:40] Total 1100 files processed
+[INFO]-[2019/04/10 15:37:40] Total 1100 files processed
+[INFO]-[2019/04/10 15:37:40] Total 1150 files processed
+[INFO]-[2019/04/10 15:37:40] Total 1150 files processed
+[INFO]-[2019/04/10 15:37:40] Total 1200 files processed
+[INFO]-[2019/04/10 15:37:40] Total 1200 files processed
+[INFO]-[2019/04/10 15:37:41] Total 1250 files processed
+[INFO]-[2019/04/10 15:37:41] Total 1250 files processed
+[INFO]-[2019/04/10 15:37:41] Total 1300 files processed
+[INFO]-[2019/04/10 15:37:41] Total 1300 files processed
+[INFO]-[2019/04/10 15:37:41] Total 1350 files processed
+[INFO]-[2019/04/10 15:37:41] Total 1350 files processed
+[INFO]-[2019/04/10 15:37:42] Total 1400 files processed
+[INFO]-[2019/04/10 15:37:42] Total 1400 files processed
+[INFO]-[2019/04/10 15:37:42] Total 1450 files processed
+[INFO]-[2019/04/10 15:37:42] Total 1450 files processed
+[INFO]-[2019/04/10 15:37:42] Total 1500 files processed
+[INFO]-[2019/04/10 15:37:42] Total 1500 files processed
+[INFO]-[2019/04/10 15:37:42] Total 1550 files processed
+[INFO]-[2019/04/10 15:37:42] Total 1550 files processed
+[INFO]-[2019/04/10 15:37:43] Total 1600 files processed
+[INFO]-[2019/04/10 15:37:43] Total 1600 files processed
+[INFO]-[2019/04/10 15:37:43] Total 1650 files processed
+[INFO]-[2019/04/10 15:37:43] Total 1650 files processed
+[INFO]-[2019/04/10 15:37:43] Total 1700 files processed
+[INFO]-[2019/04/10 15:37:43] Total 1700 files processed
+[INFO]-[2019/04/10 15:37:44] Total 1750 files processed
+[INFO]-[2019/04/10 15:37:44] Total 1750 files processed
+[INFO]-[2019/04/10 15:37:44] Total 1800 files processed
+[INFO]-[2019/04/10 15:37:44] Total 1800 files processed
+[INFO]-[2019/04/10 15:37:44] Total 1850 files processed
+[INFO]-[2019/04/10 15:37:44] Total 1850 files processed
+[INFO]-[2019/04/10 15:37:45] Total 1900 files processed
+[INFO]-[2019/04/10 15:37:45] Total 1900 files processed
+[INFO]-[2019/04/10 15:37:45] Total 1950 files processed
+[INFO]-[2019/04/10 15:37:45] Total 1950 files processed
+[INFO]-[2019/04/10 15:37:45] Total 2000 files processed
+[INFO]-[2019/04/10 15:37:45] Total 2000 files processed
+[INFO]-[2019/04/10 15:37:46] Total 2050 files processed
+[INFO]-[2019/04/10 15:37:46] Total 2050 files processed
+[INFO]-[2019/04/10 15:37:46] Total 2100 files processed
+[INFO]-[2019/04/10 15:37:46] Total 2100 files processed
+[INFO]-[2019/04/10 15:37:46] Total 2150 files processed
+[INFO]-[2019/04/10 15:37:46] Total 2150 files processed
+[INFO]-[2019/04/10 15:37:46] Total 2200 files processed
+[INFO]-[2019/04/10 15:37:46] Total 2200 files processed
+[INFO]-[2019/04/10 15:37:47] Total 2250 files processed
+[INFO]-[2019/04/10 15:37:47] Total 2250 files processed
+[INFO]-[2019/04/10 15:37:47] Total 2300 files processed
+[INFO]-[2019/04/10 15:37:47] Total 2300 files processed
+[INFO]-[2019/04/10 15:37:47] Total 2350 files processed
+[INFO]-[2019/04/10 15:37:47] Total 2350 files processed
+[INFO]-[2019/04/10 15:37:48] Total 2400 files processed
+[INFO]-[2019/04/10 15:37:48] Total 2400 files processed
+[INFO]-[2019/04/10 15:37:48] Total 2450 files processed
+[INFO]-[2019/04/10 15:37:48] Total 2450 files processed
+[INFO]-[2019/04/10 15:37:48] Total 2500 files processed
+[INFO]-[2019/04/10 15:37:48] Total 2500 files processed
+[INFO]-[2019/04/10 15:37:49] Total 2550 files processed
+[INFO]-[2019/04/10 15:37:49] Total 2550 files processed
+[INFO]-[2019/04/10 15:37:49] Total 2600 files processed
+[INFO]-[2019/04/10 15:37:49] Total 2600 files processed
+[INFO]-[2019/04/10 15:37:49] Total 2650 files processed
+[INFO]-[2019/04/10 15:37:49] Total 2650 files processed
+[INFO]-[2019/04/10 15:37:50] Total 2700 files processed
+[INFO]-[2019/04/10 15:37:50] Total 2700 files processed
+[INFO]-[2019/04/10 15:37:50] Total 2750 files processed
+[INFO]-[2019/04/10 15:37:50] Total 2750 files processed
+[INFO]-[2019/04/10 15:37:50] Total 2800 files processed
+[INFO]-[2019/04/10 15:37:50] Total 2800 files processed
+[INFO]-[2019/04/10 15:37:51] Total 2850 files processed
+[INFO]-[2019/04/10 15:37:51] Total 2850 files processed
+[INFO]-[2019/04/10 15:37:51] Total 2900 files processed
+[INFO]-[2019/04/10 15:37:51] Total 2900 files processed
+[INFO]-[2019/04/10 15:37:51] Total 2950 files processed
+[INFO]-[2019/04/10 15:37:51] Total 2950 files processed
+[INFO]-[2019/04/10 15:37:52] Total 3000 files processed
+[INFO]-[2019/04/10 15:37:52] Total 3000 files processed
+[INFO]-[2019/04/10 15:37:52] Total 3050 files processed
+[INFO]-[2019/04/10 15:37:52] Total 3050 files processed
+[INFO]-[2019/04/10 15:37:52] Total 3100 files processed
+[INFO]-[2019/04/10 15:37:52] Total 3100 files processed
+[INFO]-[2019/04/10 15:37:53] Total 3150 files processed
+[INFO]-[2019/04/10 15:37:53] Total 3150 files processed
+[INFO]-[2019/04/10 15:37:53] Total 3200 files processed
+[INFO]-[2019/04/10 15:37:53] Total 3200 files processed
+[INFO]-[2019/04/10 15:37:53] Total 3250 files processed
+[INFO]-[2019/04/10 15:37:53] Total 3250 files processed
+[INFO]-[2019/04/10 15:37:54] Total 3300 files processed
+[INFO]-[2019/04/10 15:37:54] Total 3300 files processed
+[INFO]-[2019/04/10 15:37:54] Total 3350 files processed
+[INFO]-[2019/04/10 15:37:54] Total 3350 files processed
+[INFO]-[2019/04/10 15:37:54] Total 3400 files processed
+[INFO]-[2019/04/10 15:37:54] Total 3400 files processed
+[INFO]-[2019/04/10 15:37:54] Total 3450 files processed
+[INFO]-[2019/04/10 15:37:54] Total 3450 files processed
+[WARNING]-[2019/04/10 15:37:55] File doesn't exist /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/
+[WARNING]-[2019/04/10 15:37:55] File doesn't exist /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/
+[INFO]-[2019/04/10 15:37:55] Copying files finished
+[INFO]-[2019/04/10 15:37:55] Copying files finished
+[INFO]-[2019/04/10 15:37:55] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2019/04/10 15:37:55] Preparing Data Step0: Skip it
+[INFO]-[2019/04/10 15:37:55] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2019/04/10 15:37:55] Preparing Data Step0: Skip it
+[INFO]-[2019/04/10 15:37:56] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2019/04/10 15:37:56] Preparing Data Step1: Updating siteurl and homeurl to http://entheor.com/entheor_wordpress_production/wordpress/preprod
+[INFO]-[2019/04/10 15:37:56] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2019/04/10 15:37:56] Preparing Data Step1: Updating siteurl and homeurl to http://entheor.com/entheor_wordpress_production/wordpress/preprod
+[INFO]-[2019/04/10 15:37:56] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2019/04/10 15:37:56] Preparing Data Step2: Successfull
+[INFO]-[2019/04/10 15:37:56] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2019/04/10 15:37:56] Preparing Data Step2: Successfull
+[INFO]-[2019/04/10 15:37:56] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2019/04/10 15:37:56] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2019/04/10 15:37:57] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2019/04/10 15:37:57] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2019/04/10 15:37:57] Preparing Data Step5: Updating table_prefix in /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/preprod/wp-config.php to wpstg0_
+[INFO]-[2019/04/10 15:37:57] Preparing Data Step5: Updating table_prefix in /homepages/30/d347813754/htdocs/entheor_wordpress_production/wordpress/preprod/wp-config.php to wpstg0_
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/10 15:37:57] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2019/04/10 15:37:57] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2019/04/10 15:37:57] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2019/04/10 15:37:57] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2019/04/10 15:37:58] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2019/04/10 15:37:58] Preparing Data Step8: Finished successfully
+[INFO]-[2019/04/10 15:37:58] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2019/04/10 15:37:58] Preparing Data Step8: Finished successfully
+[INFO]-[2019/04/10 15:37:58] Preparing Data Step9: Set staging site to noindex
+[WARNING]-[2019/04/10 15:37:58] Can not update staging site to noindex. Possible already done!
+[INFO]-[2019/04/10 15:37:58] Preparing Data Step9: Set staging site to noindex
+[WARNING]-[2019/04/10 15:37:58] Can not update staging site to noindex. Possible already done!
+[INFO]-[2019/04/10 15:37:58] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://entheor.com/entheor_wordpress_production/wordpress/preprod
+[INFO]-[2019/04/10 15:37:58] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/10 15:37:58] Preparing Data Step 10: Finished successfully
+[INFO]-[2019/04/10 15:37:58] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://entheor.com/entheor_wordpress_production/wordpress/preprod
+[INFO]-[2019/04/10 15:37:58] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/10 15:37:58] Preparing Data Step 10: Finished successfully
+[INFO]-[2019/04/10 15:37:59] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://entheor.com/entheor_wordpress_production/wordpress/preprod
+[INFO]-[2019/04/10 15:37:59] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/10 15:37:59] Preparing Data Step 11: Finished successfully
+[INFO]-[2019/04/10 15:37:59] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://entheor.com/entheor_wordpress_production/wordpress/preprod
+[INFO]-[2019/04/10 15:37:59] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/10 15:37:59] Preparing Data Step 11: Finished successfully
+[INFO]-[2019/04/10 15:37:59] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2019/04/10 15:37:59] Preparing Data Step 12: Finished successfully
+[INFO]-[2019/04/10 15:37:59] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2019/04/10 15:37:59] Preparing Data Step 12: Finished successfully
+[INFO]-[2019/04/10 15:37:59] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2019/04/10 15:37:59] Preparing Data Step13: Skipped
+[INFO]-[2019/04/10 15:37:59] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2019/04/10 15:37:59] Preparing Data Step13: Skipped
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step 14: Finished successfully
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step 14: Finished successfully
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step 15: Finished successfully
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step 15: Finished successfully
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step 16: Finished successfully
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/10 15:38:00] Preparing Data Step 16: Finished successfully
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/10 15:38:01] Finish: Deleting clone job's cache files...
+[INFO]-[2019/04/10 15:38:01] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/04/10 15:38:01] Finish: Verifying existing clones...
+[INFO]-[2019/04/10 15:38:01] Finish: Preprod's clone job's data is not in database, generating data
+[INFO]-[2019/04/10 15:38:01] Finish: Deleting clone job's cache files...
+[INFO]-[2019/04/10 15:38:01] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/04/10 15:38:01] Finish: Verifying existing clones...
+[INFO]-[2019/04/10 15:38:01] Finish: Preprod's clone job's data is not in database, generating data

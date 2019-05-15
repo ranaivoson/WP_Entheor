@@ -1,0 +1,85 @@
+.btn {
+  background-color: #97bd12 !important;
+  color: white !important;
+}
+
+body {
+  color: #414141;
+}
+body header nav {
+  float: right;
+  margin-right: 40px;
+}
+
+.owl-nav {
+  font-size: 100px;
+}
+.owl-nav .owl-prev {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.owl-nav .owl-next {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+nav,
+#logo {
+  display: inline-block !important;
+  vertical-align: top;
+}
+
+#logo {
+  margin-left: 18px;
+  margin-top: 22px;
+  margin-bottom: 22px;
+}
+
+header nav {
+  margin-top: 60px;
+}
+header nav li {
+  list-style: none;
+  display: inline-block;
+  color: #97bd12;
+}
+header nav li a {
+  color: #818181 !important;
+  padding: 0 5px;
+  text-decoration: none !important;
+  padding-bottom: 8px;
+}
+header nav li a:hover {
+  color: #414141;
+  border-bottom: 2px solid #97bd12;
+}
+header nav li:after {
+  content: " |";
+}
+header nav .sub-menu {
+  display: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  background-color: white;
+  text-transform: capitalize;
+  border-bottom: 1px solid #818181;
+}
+header nav .sub-menu li {
+  display: block;
+  padding: 10px 10px;
+  border-bottom: 1px solid #818181;
+}
+header nav .sub-menu li a {
+  font-weight: normal;
+}
+header nav .sub-menu li:last-child {
+  border-bottom: none !important;
+}
+header nav .sub-menu li:after {
+  content: "";
+}
+
+/*# sourceMappingURL=header.css.map */
